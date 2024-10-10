@@ -1,11 +1,7 @@
-import React from 'react'
-
+import "./App.css";
+import POC from "./components/POC";
 function App() {
-  return (
-    <div>
-      First Commit
-    </div>
-  )
+  return <POC />;
 }
 
-export default App
+export default App;
